@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+}
+
+#logo {
+    max-width: 150px;
+    height: auto;
+}
+
+main {
+    padding: 20px;
+}
+
+#introduction h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+#introduction p {
+    margin: 5px 0;
+}
+
+#tagline {
+    font-style: italic;
+    margin: 20px 0;
+}
+
+#social-links a {
+    text-decoration: none;
+    color: #0077b5;
+    margin: 0 10px;
+}
+
+#social-links a:hover {
+    text-decoration: underline;
+}
